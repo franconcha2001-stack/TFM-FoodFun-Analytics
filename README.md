@@ -26,13 +26,13 @@ Desarrollar una solución de Business Analytics para FOOD&FUN que permita:
 
 ## Estructura del proyecto
 
-00_Limpieza_Datos.ipynb
-01_Prediccion_Demanda_FoodFun.ipynb
-02_Prediccion_Ocupacion_Talleres.ipynb
-03_Optimizacion_Calendario_Gurobi.ipynb
-04_Dashboard_y_Visualizacion_Resultados.ipynb
-05_Gestion_Talleres_Asistentes.ipynb
-Panel_de_control.py
+* 00_Limpieza_Datos.ipynb
+* 01_Prediccion_Demanda_FoodFun.ipynb
+* 02_Prediccion_Ocupacion_Talleres.ipynb
+* 03_Optimizacion_Calendario_Gurobi.ipynb
+* 04_Dashboard_y_Visualizacion_Resultados.ipynb
+* 05_Gestion_Talleres_Asistentes.ipynb
+* Panel_de_control.py
 
 ## Autor
 
